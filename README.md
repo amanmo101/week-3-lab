@@ -1,3 +1,8 @@
+# Week 3 Lab
+This is the Week 3 Lab: Barista-app. 
+Demo: https://www.loom.com/share/1a303091f0db463589ce1335ca1141ea
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
